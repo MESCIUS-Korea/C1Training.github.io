@@ -36,18 +36,18 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-#feedback_subject_line: Componetone 제품 및 기술문의
+feedback_subject_line: Componetone 제품 및 기술문의
 
-#feedback_email: support-kor@grapecity.com
+feedback_email: support-kor@grapecity.com
 # used as a contact email for the Feedback link in the top navigation bar
 
-#feedback_disable: true
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 feedback_text: "제품문의"
 # if you uncomment the previous line, it changes the Feedback text
 
- feedback_link: "https://dev.grapecity.co.kr/bbs/board.php?bo_table=component_qna"
+ feedback_link: ""
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge

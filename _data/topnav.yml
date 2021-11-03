@@ -9,6 +9,8 @@ topnav:
         external_url: https://www.grapecity.co.kr/componentone-enterprise/whatsnew
       - title: 다운로드
         external_url: https://www.grapecity.co.kr/download/componentone-studio
+      - title: 문의하기
+        external_url: https://dev.grapecity.co.kr/bbs/board.php?bo_table=component_qna
 #Topnav dropdowns
 # topnav_dropdowns:
 # - title: Topnav dropdowns
